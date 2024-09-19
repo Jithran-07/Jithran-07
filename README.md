@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jithran-07](https://github.com/Jithran-07)
 
-- 💬 Ask me about **Machine Learning and Deep Learning**
+- 💬 Ask me about **Backend Development and Machine Learning**
 
 - 📫 How to reach me **mranjithkumar0510@gmail.com**
 
